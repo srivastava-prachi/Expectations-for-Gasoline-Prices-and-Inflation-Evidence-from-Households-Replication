@@ -38,5 +38,3 @@ gasoline price expectations.
 We also have CUSR0000SETB01.csv data on Actual gasoline inflation.
 
 
-
-
