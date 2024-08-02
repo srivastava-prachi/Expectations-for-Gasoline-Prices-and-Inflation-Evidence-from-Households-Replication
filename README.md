@@ -1,4 +1,4 @@
-# Replication codes for Gasoline and Inflation Expectations
+# Replication codes for Expectations for Gasoline Prices and Inflation: Evidence from Households
 
 This git repository contains all the code to replicate the results of the paper: "Gasoline and Inflation Expectations". 
 The working-paper version is available here. Virtually all code is based on the R platform.
