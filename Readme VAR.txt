@@ -1,0 +1,2 @@
+VARreplicationdata.xlsx contains the data used for Figures 1 & 2 as well as to produce Table 3 in the paper. 
+VARreplication.r is the r-script used to produce Table 3 based on the data in VARreplicationdata.xlsx.
